@@ -1,6 +1,6 @@
 # profile
 
-![Demo Animation](./assets/image-git-readme.jpg?raw=true)
+![Demo Animation](./assets/image-git-readme.png?raw=true)
 
 ## About this Project
 
