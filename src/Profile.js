@@ -75,6 +75,8 @@ export default function App() {
                         </View>
                     </View>
 
+
+
                     <View style={styles.recentItem}>
                         <View style={styles.activityIndicator}></View>
                         <View style={{ width: 250 }}>
